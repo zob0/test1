@@ -1,2 +1,4 @@
 main grana tekst
 Uneli smo neki tekst
+
+dodat tekst u main granu
